@@ -8,7 +8,7 @@ How Do I Download it?
 
 4. next go to browser and write there chrome://extensions ( will work on all browsers ) ![image](https://user-images.githubusercontent.com/120916456/208310769-2268c245-28cf-43b9-af0f-38347bcdd5f5.png)
 
-5. when ur on the chrome://extensions page turn on developer mod![image](https://user-images.githubusercontent.com/120916456/208310759-e819678f-96f1-432f-91ea-d141e8a65e45.png)
+5. when ur on the chrome://extensions page turn on developer mode![image](https://user-images.githubusercontent.com/120916456/208310759-e819678f-96f1-432f-91ea-d141e8a65e45.png)
 
 6. then click load unpacked![image](https://user-images.githubusercontent.com/120916456/208310793-fc98bd93-f2b4-46ae-8900-29b94e786b14.png)
 
